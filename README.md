@@ -1,2 +1,0 @@
-# ReactTable
-Created with CodeSandbox
